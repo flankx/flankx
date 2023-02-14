@@ -1,11 +1,3 @@
-<!-- repo card -->
-<a href="https://github.com/flankx/flankx.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=vue" />
-</a>
-<a href="https://github.com/flankx/ws-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=vue" />
-</a>
-
 ### Hi there 👋
 
 <!-- **flankx/flankx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +17,6 @@ Here are some ideas to get you started: -->
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -34,13 +25,15 @@ Here are some ideas to get you started: -->
 
 
 <!-- github stats -->
-![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&theme=chartreuse-dark)
 
 <!-- top langs [&layout=compact 紧凑布局]-->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=chartreuse-dark)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
+<!-- repo card -->
+![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=chartreuse-dark)
 
