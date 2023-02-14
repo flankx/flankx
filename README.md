@@ -13,7 +13,8 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+- 
+  ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=plastic&logo=OpenJDK)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
