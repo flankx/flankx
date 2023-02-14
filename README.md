@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- skills:
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -25,6 +26,8 @@ Here are some ideas to get you started: -->
 
 
 ![](https://github-readme-stats.vercel.app/api?username=flankx&theme=dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
