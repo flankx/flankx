@@ -1,5 +1,12 @@
-### Hi there 👋
+<!-- repo card -->
+<a href="https://github.com/flankx/flankx.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=maroongold" />
+</a>
+<a href="https://github.com/flankx/ws-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=jolly" />
+</a>
 
+### Hi there 👋
 
 <!-- **flankx/flankx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,21 +32,11 @@ Here are some ideas to get you started: -->
   ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=IntelliJ-IDEA)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-<!-- repo card -->
-<a href="https://github.com/flankx/flankx.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=transparent" />
-</a>
-<a href="https://github.com/flankx/ws-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=transparent" />
-</a>
-<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io)
-![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo) -->
-
 <!-- github stats -->
-![](https://github-readme-stats.vercel.app/api?username=flankx&theme=transparent&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- top langs -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=transparent&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=aura&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
