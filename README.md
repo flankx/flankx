@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=maroongold" />
 </a>
 <a href="https://github.com/flankx/ws-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=maroongold" />
 </a>
 
 ### Hi there 👋
@@ -35,8 +35,8 @@ Here are some ideas to get you started: -->
 <!-- github stats -->
 ![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<!-- top langs -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=aura&layout=compact)
+<!-- top langs [&layout=compact 紧凑布局]-->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
