@@ -25,8 +25,21 @@ Here are some ideas to get you started: -->
   ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=IntelliJ-IDEA)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
+<!-- repo card -->
+<a href="https://github.com/flankx/flankx.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=transparent" />
+</a>
+<a href="https://github.com/flankx/ws-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=transparent" />
+</a>
+<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io)
+![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo) -->
 
-![](https://github-readme-stats.vercel.app/api?username=flankx&theme=dark)
+<!-- github stats -->
+![](https://github-readme-stats.vercel.app/api?username=flankx&theme=transparent&show_icons=true)
+
+<!-- top langs -->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
