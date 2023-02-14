@@ -24,16 +24,14 @@ Here are some ideas to get you started: -->
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 
-<!-- github stats -->
-![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&theme=chartreuse-dark)
-
-<!-- top langs [&layout=compact 紧凑布局]-->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=chartreuse-dark)
+<!-- github stats & top langs[&layout=compact 紧凑布局]-->
+![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&theme=darcula)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=darcula&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!-- repo card -->
-![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=chartreuse-dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=darcula)
+![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=darcula)
 
