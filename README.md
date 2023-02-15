@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 
 <!-- github stats & top langs[&layout=compact 紧凑布局]-->
-![](https://github-readme-stats.vercel.app/api?username=flankx&show_icons=true&theme=darcula)
+![](https://github-readme-stats.vercel.app/api?username=flankx&hide=issues,contribs&show_icons=true&theme=darcula)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=darcula&layout=compact)
 
 <!--START_SECTION:waka-->
@@ -33,5 +33,3 @@ Here are some ideas to get you started: -->
 
 <!-- repo card -->
 ![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=darcula)
-![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=ws-demo&theme=darcula)
-
