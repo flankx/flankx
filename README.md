@@ -23,16 +23,11 @@ Here are some ideas to get you started: -->
 ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=IntelliJ-IDEA)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-
 <!-- github stats & top langs[&layout=compact 紧凑布局]-->
 ![](https://github-readme-stats.vercel.app/api?username=flankx&hide=contribs&show_icons=true&theme=darcula)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=darcula&layout=compact)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flankx&theme=darcula)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!-- repo card -->
-![](https://github-readme-stats.vercel.app/api/pin/?username=flankx&repo=flankx.github.io&theme=darcula)
