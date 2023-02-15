@@ -26,7 +26,10 @@ Here are some ideas to get you started: -->
 
 <!-- github stats & top langs[&layout=compact 紧凑布局]-->
 ![](https://github-readme-stats.vercel.app/api?username=flankx&hide=contribs&show_icons=true&theme=darcula)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=darcula&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=flankx&theme=darcula)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
