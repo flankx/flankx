@@ -37,3 +37,5 @@ Other      9 mins          ███▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://badges.strrl.dev/visits/flankx/flankx)
