@@ -33,8 +33,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-SQL     42 mins         ██████████████▒░░░░░░░░░░   57.01 %
-Other   32 mins         ██████████▓░░░░░░░░░░░░░░   42.99 %
+Other   1 hr 29 mins    ██████████████████▓░░░░░░   74.93 %
 ```
 
 <!--END_SECTION:waka-->
