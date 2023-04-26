@@ -33,9 +33,9 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-Python           2 mins          █████████████▓░░░░░░░░░░░   54.86 %
-Markdown         1 min           ██████████░░░░░░░░░░░░░░░   39.96 %
-GitIgnore file   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Python     8 mins          ████████████████████████▒   96.71 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
