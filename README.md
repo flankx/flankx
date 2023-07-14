@@ -28,7 +28,8 @@ Here are some ideas to get you started: -->
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=flankx&theme=darcula&layout=compact)
 <!-- github打卡 -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=flankx&theme=darcula) -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 提交记录3D显示 -->
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 <!--START_SECTION:waka-->
 
